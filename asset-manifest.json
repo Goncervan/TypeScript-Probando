@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypeScript-Probando/static/css/main.71c8a8f7.css",
+    "main.js": "/TypeScript-Probando/static/js/main.96e185eb.js",
+    "index.html": "/TypeScript-Probando/index.html",
+    "main.71c8a8f7.css.map": "/TypeScript-Probando/static/css/main.71c8a8f7.css.map",
+    "main.96e185eb.js.map": "/TypeScript-Probando/static/js/main.96e185eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c8a8f7.css",
+    "static/js/main.96e185eb.js"
+  ]
+}
